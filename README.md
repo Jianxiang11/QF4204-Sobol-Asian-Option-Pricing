@@ -1,6 +1,6 @@
 # QF4204 Project: Sobol Construction and Randomization in Asian Option Pricing
 
-Code accompanying the QF4204 final report **“How Much Do Sobol Construction and Randomization Matter? An Empirical Comparison of MC and Randomized QMC in Asian Option Pricing.”**
+**“How Much Do Sobol Construction and Randomization Matter? An Empirical Comparison of MC and Randomized QMC in Asian Option Pricing.”**
 
 ## Methods
 
